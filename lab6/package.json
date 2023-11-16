@@ -1,0 +1,23 @@
+{
+  "name": "lisniak-testing-lab6",
+  "version": "1.0.0",
+  "description": "Automated testing lab6 done by Maksym Lisniak",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Maksym Lisniak",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
