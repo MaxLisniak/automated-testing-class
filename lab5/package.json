@@ -1,7 +1,7 @@
 {
-  "name": "lisniak-testing-lab4",
+  "name": "lisniak-testing-lab5",
   "version": "1.0.0",
-  "description": "Automated testing lab4 done by Maksym Lisniak",
+  "description": "Automated testing lab5 done by Maksym Lisniak",
   "main": "index.js",
   "keywords": [
     "testing"
