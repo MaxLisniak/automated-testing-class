@@ -13,3 +13,21 @@ export function add(matrixA, matrixB) {
     }
     return result;
 }
+// // Example usage:
+// const matrix1: number[][] = [
+//   [1, 2],
+//   [3, 4],
+// ];
+// const matrix2: number[][] = [
+//   [5, 6],
+//   [7, 8],
+// ];
+// const resultMatrix = add(matrix1, matrix2);
+// if (resultMatrix !== null) {
+//   console.log("Resultant Matrix after addition:");
+//   for (const row of resultMatrix) {
+//     console.log(row.join("\t"));
+//   }
+// } else {
+//   console.log("Matrices have different dimensions, cannot add them.");
+// }

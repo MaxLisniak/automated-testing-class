@@ -20,7 +20,7 @@ describe('Matrix multiplication', () => {
     ])
   })
 
-  it("can't be different sizes", () => {
+  it("should be compatable sizes", () => {
     const matrix1 = [
       [1, 2],
       [3, 4],
