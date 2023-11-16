@@ -1,0 +1,23 @@
+{
+  "name": "lisniak-testing-lab4",
+  "version": "1.0.0",
+  "description": "Automated testing lab4 done by Maksym Lisniak",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests",
+    "build": "tsc"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Maksym Lisniak",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
